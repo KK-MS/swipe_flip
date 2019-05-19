@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+# Install
+
+apk folder contains the Android APK which can be installed.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
