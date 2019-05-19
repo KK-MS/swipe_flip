@@ -24,6 +24,15 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
 
+  # BLoC support
+  flutter_bloc: ^0.11.1
+
+  # flutter swipe
+  flutter_swiper : ^1.1.6
+
+  # Flip card animation. e.g. It could be used for hide and show details of a product.
+  flip_card: ^0.2.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
